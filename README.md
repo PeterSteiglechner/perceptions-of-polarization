@@ -43,6 +43,8 @@ To reproduce our analysis in the manuscript, run the code in the notebooks
 
 1. notebook `Sketch_FabricatedData.ipynb` reproduces the sketch of the model procedure in Figure 1.
 2. notebook `ExploratoryDataAnalysisClean.ipynb` reproduces Figure 2 and 3 in the manuscript.
-3. notebook `AnalysisClean.ipynb` reproduces our analysis of perceived disagreement and polarization in the German climate debate in Figure 3 and 4 in the manuscript.
+3. notebook `AnalysisClean.ipynb` reproduces our analysis of perceived disagreement and polarization in the German climate debate in Figure 4 and 5 in the manuscript.
 
 The files `functions.py` contains helper functions used in the notebooks. 
+
+## License
